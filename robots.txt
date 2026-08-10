@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hns52h.nuansa138.space/sitemap.xml
